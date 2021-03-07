@@ -2,3 +2,4 @@
 Final project for my BSc in Electronics, consisting on an educational platform aimed at children aged 2-5, to teach them basic programming skills. The full project is written in catalan. 
 
 Attached are the code, schematics, final report and a small demonstration video. 
+Project submitted in 2017
